@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to Osamah's GitHub 👋</h1>
+<h1 align="center">Welcome to My GitHub! 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+Profile&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhjMHM2MWdvOWZxN2U4cnJuZ3dkNWdnbmRkb3hmdG55ajQ1Y2JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.gif"/>
 </p>
 
 ### 👨‍💻 About Me
@@ -20,5 +20,5 @@
 
 ### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsamahGilani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdg5-hub&show_icons=true&theme=tokyonight" />
 </p>
