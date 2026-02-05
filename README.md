@@ -19,6 +19,9 @@
 ---
 
 ### 📊 My Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sdg5-hub&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
+## 📊 My Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sdg5-hub&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdg5-hub&theme=tokyonight)
+
