@@ -18,10 +18,7 @@
 
 ---
 
-### 📊 My Stats
 ## 📊 My Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sdg5-hub&theme=tokyonight)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdg5-hub&theme=tokyonight)
 
