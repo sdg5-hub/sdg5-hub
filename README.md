@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhjMHM2MWdvOWZxN2U4cnJuZ3dkNWdnbmRkb3hmdG55ajQ1Y2JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.gif"/>
   
-  Make Sure To Sign the Guestbook at Signal_LOG active here -> (https://signal-log.onrender.com) (It takes 30 seconds to load up)
+  Make Sure To Sign the Guestbook at Signal_LOG active here -> (https://signal-log.onrender.com) (It may take 30 seconds to load up)
 </p>
 
 ### 👨‍💻 About Me
