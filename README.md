@@ -36,15 +36,17 @@ Privacy-preserving mediation layer for clinical trial workflows using local mode
 **Focus:** Privacy, utility, and product usability  
 **Stack:** Python, local model routing, experiments, paper, demo  
 
-<a href="https://github.com/Shiv-aurora/hackprincetonS26">
-  <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://devpost.com/software/asclepius-4rthsu">
-  <img src="https://img.shields.io/badge/Demo-Asclepius-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54" />
-</a>
- <a href="">
+<p>
+  <a href="https://github.com/sdg5-hub/hackprincetonS26">
+    <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devpost.com/software/asclepius-4rthsu">
+    <img src="https://img.shields.io/badge/Demo-Asclepius-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54" />
+  </a>
+  <a href="https://raw.githubusercontent.com/sdg5-hub/sdg5-hub/main/combined%20(1).pdf">
     <img src="https://img.shields.io/badge/Paper-PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=B31B1B" />
   </a>
+</p>
 
 
 ### 
