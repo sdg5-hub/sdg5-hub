@@ -154,9 +154,9 @@ Add one more project here that shows another side of your skill set.
   <a href="https://www.linkedin.com/in/saiyid-o-gilani-6764751b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a> 
-  <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
-    <img src="https://img.shields.io/badge/Outlook-Reach%20Out-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" />
-  </a>
+ <a href="https://outlook.office.com/mail/deeplink/compose?to=saiyidosamah.gilani31@qmail.cuny.edu">
+  <img src="https://img.shields.io/badge/Outlook-Reach%20Out-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" />
+</a>
   <a href="https://github.com/sdg5-hub">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
