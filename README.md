@@ -49,15 +49,31 @@ Privacy-preserving mediation layer for clinical trial workflows using local mode
 </p>
 
 
-### MedTrack (Best UI/UX)
-Standalone project website built and deployed for hackathon presentation, product storytelling, and clean demo flow.
+## MedTrack (Best UI/UX)
 
-**Goal:** Create a clean, fast, standalone presentation site  
-**Focus:** Polished storytelling and simple deployment  
-**Stack:** HTML, CSS, JavaScript, Vercel  
+MedTrack is a local-first medication adherence app built for hackathon demo use. It helps users stay on schedule with reminders, log dose outcomes, review adherence, and access safety-focused guidance.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sdg5-hub/PrincetonSite26)
-[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://hackunamatata.health)
+**What it does:**
+- Medication management with add/edit/delete/deactivate flows
+- Flexible scheduling for fixed times, interval-based doses, day-of-week plans, and PRN usage
+- Local reminder notifications with snooze support
+- Dose action flow for Taken / Snooze / Skip
+- Adherence history, filters, and status tracking
+- Safety Check, Missed Dose Guidance, and Emergency Card support
+- Demo mode for live walkthroughs
+
+**Goal:** Build a polished, safety-conscious medication tracking experience  
+**Focus:** Strong UI/UX, local-first reliability, and clear patient workflow design  
+**Stack:** TypeScript, React Native, Expo, Expo Router, SQLite, Expo Notifications, Expo Camera  
+
+<p>
+  <a href="https://github.com/sdg5-hub/HopperHackathon2026">
+    <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devpost.com/software/medtrack-6mw2y3">
+    <img src="https://img.shields.io/badge/Demo-MedTrack-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54" />
+  </a>
+</p>
 
 ### Your Third Best Project
 Add one more project here that shows another side of your skill set.
