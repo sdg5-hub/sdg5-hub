@@ -173,17 +173,17 @@ WeaveWise is a clothing sustainability tracker that reads garment tags, extracts
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdg5-hub&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdg5-hub&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdg5-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdg5-hub&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdg5-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdg5-hub&theme=github-dark-blue&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdg5-hub&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdg5-hub&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdg5-hub&layout=compact&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdg5-hub&theme=github_dark" width="49%" />
 </p>
 
 ---
