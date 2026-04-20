@@ -206,6 +206,9 @@ WeaveWise is a clothing sustainability tracker that reads garment tags, extracts
   <a href="https://instagram.com/saiyidogilani">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
+  <a href="https://buymeacoffee.com/saiyidogilani?new=1">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00" />
+</a>
 </p>
 
 
