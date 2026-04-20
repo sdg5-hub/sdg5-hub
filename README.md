@@ -29,17 +29,17 @@ I thrive under pressure, most recently placing 1st overall at HackPrinceton Spri
 
 ## Featured Projects
 
-### NGSP
+### NGSP (Princeton Hackathon Overall Best Hack
 Privacy-preserving mediation layer for clinical trial workflows using local models, Safe Harbor stripping, routing, and differential privacy.
 
 **Goal:** Make LLM use safer in high-stakes clinical workflows  
 **Focus:** Privacy, utility, and product usability  
 **Stack:** Python, local model routing, experiments, paper, demo  
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shiv-aurora/hackprincetonS26)
-[![Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://hackunamatata.health)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sdg5-hub/hackprincetonS26)
+[![Demo](https://devpost.com/software/asclepius-4rthsu?_gl=1*18fsw37*_gcl_au*MTA3NDM4Mjk2Mi4xNzcyODQxOTQx*_ga*MjIxNjg2OTc3LjE3NzI4NDE5NDM.*_ga_0YHJK3Y10M*czE3NzY3MDUxNTkkbzIwJGcxJHQxNzc2NzA2ODk3JGo1JGwwJGgw)
 
-### PrincetonSite26
+### 
 Standalone project website built and deployed for hackathon presentation, product storytelling, and clean demo flow.
 
 **Goal:** Create a clean, fast, standalone presentation site  
