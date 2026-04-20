@@ -29,7 +29,7 @@ I thrive under pressure, most recently placing 1st overall at HackPrinceton Spri
 
 ## Featured Projects
 
-### NGSP (Princeton Hackathon Overall Best Hack Award)
+### NGSP (Princeton Hackathon Overall Best Hack Award🏆)
 Privacy-preserving mediation layer for clinical trial workflows using local models, Safe Harbor stripping, routing, and differential privacy.
 
 **Goal:** Make LLM use safer in high-stakes clinical workflows  
