@@ -37,7 +37,9 @@ Privacy-preserving mediation layer for clinical trial workflows using local mode
 **Stack:** Python, local model routing, experiments, paper, demo  
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sdg5-hub/hackprincetonS26)
-[![Demo](https://devpost.com/software/asclepius-4rthsu?_gl=1*18fsw37*_gcl_au*MTA3NDM4Mjk2Mi4xNzcyODQxOTQx*_ga*MjIxNjg2OTc3LjE3NzI4NDE5NDM.*_ga_0YHJK3Y10M*czE3NzY3MDUxNTkkbzIwJGcxJHQxNzc2NzA2ODk3JGo1JGwwJGgw)
+[![Demo](<a href="https://devpost.com/software/asclepius-4rthsu?_gl=1*18fsw37*_gcl_au*MTA3NDM4Mjk2Mi4xNzcyODQxOTQx*_ga*MjIxNjg2OTc3LjE3NzI4NDE5NDM.*_ga_0YHJK3Y10M*czE3NzY3MDUxNTkkbzIwJGcxJHQxNzc2NzA2ODk3JGo1JGwwJGgw">
+  <img src="https://img.shields.io/badge/Devpost-Asclepius-003E54?style=for-the-badge&logo=devpost&logoColor=white&labelColor=003E54" />
+</a>)
 
 ### 
 Standalone project website built and deployed for hackathon presentation, product storytelling, and clean demo flow.
