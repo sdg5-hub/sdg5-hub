@@ -42,6 +42,9 @@ Privacy-preserving mediation layer for clinical trial workflows using local mode
 <a href="https://devpost.com/software/asclepius-4rthsu">
   <img src="https://img.shields.io/badge/Demo-Asclepius-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54" />
 </a>
+ <a href="./NGSP_Paper.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=B31B1B" />
+  </a>
 
 
 ### 
