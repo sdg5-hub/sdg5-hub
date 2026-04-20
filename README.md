@@ -151,7 +151,7 @@ Add one more project here that shows another side of your skill set.
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/saiyidogilani/">
+  <a href="https://www.linkedin.com/in/saiyid-o-gilani-6764751b5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
