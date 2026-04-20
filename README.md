@@ -208,13 +208,10 @@ WeaveWise is a clothing sustainability tracker that reads garment tags, extracts
   </a>
 
 ## Support My Work
+If you liked my work or if it has helped you, all support is appreciated!
   <a href="https://buymeacoffee.com/saiyidogilani?new=1">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=FFDD00" />
 </a>
 </p>
 
 
-Build fast.
-Refine hard.
-Keep it useful.
-Make it feel intentional.
