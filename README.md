@@ -151,23 +151,23 @@ Add one more project here that shows another side of your skill set.
 ## Connect
 
 <p>
-  
   <a href="https://www.linkedin.com/in/saiyidogilani/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="saiyidosamah.gilani31@qmail.cuny.edu">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
   <a href="https://github.com/sdg5-hub">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
   <a href="https://x.com/saiyidogilani">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://instagram.com/saiyidogilani">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
 </p>
+
 
 Build fast.
 Refine hard.
