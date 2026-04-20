@@ -2,6 +2,10 @@
   <img src="./banner.gif" alt="banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="./banner.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Saiyid O. Gilani</h1>
 <h3 align="center">builder of useful software • full-stack + AI/ML • systems thinker</h3>
 
@@ -10,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sdg5-hub/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:osamahgilani@gmail.com">
+  <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sdg5-hub">
@@ -51,10 +55,10 @@ class Saiyid:
         return "turn ambitious ideas into polished software"
 What I Build
 AI tools for messy real-world workflows
-full-stack products with clean UX and strong product feel
-research prototypes that can evolve into real products
-systems that automate repetitive work without unnecessary complexity
-demos that are technically strong and easy to explain
+Full-stack products with clean UX and strong product feel
+Research prototypes that can evolve into real products
+Systems that automate repetitive work without unnecessary complexity
+Demos that are technically strong and easy to explain
 Featured Projects
 NGSP
 Privacy-preserving mediation layer for clinical trial workflows using local models, Safe Harbor stripping, routing, and differential privacy.
@@ -71,16 +75,6 @@ Standalone project website built and deployed for hackathon presentation, produc
 Goal  : create a clean, fast, standalone presentation site
 Focus : polished storytelling + simple deployment
 Stack : HTML, CSS, JavaScript, Vercel
-
-
-
-Your Third Best Project
-A strong third project that shows another side of your skill set.
-
-Goal  : replace this with your real project summary
-Focus : what makes it interesting or useful
-Stack : list the main technologies used
-
 
 
 Current Focus
@@ -123,5 +117,3 @@ Keep it useful.
 Make it feel intentional.
 Connect
 <p> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://your-portfolio-link.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:osamahgilani@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sdg5-hub"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> ```
-
-
