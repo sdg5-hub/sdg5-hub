@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to My GitHub! 👋</h1>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhjMHM2MWdvOWZxN2U4cnJuZ3dkNWdnbmRkb3hmdG55ajQ1Y2JnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rjub7AIEIbXT0tzbr3/giphy.gif"/>
   
