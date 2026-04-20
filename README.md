@@ -9,22 +9,7 @@
   I like turning ambitious ideas into polished, usable products.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sdg5-hub/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sdg5-hub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
----
 ---
 
 ## What I Build
@@ -161,13 +146,13 @@ Add one more project here that shows another side of your skill set.
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sdg5-hub/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:osamahgilani@gmail.com">
+  <a href="mailto:saiyidosamah.gilani31@qmail.cuny.edu">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sdg5-hub">
