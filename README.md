@@ -1,6 +1,7 @@
-\<p align="center">
-  <img src="./Room_1_hacks.gif" alt="banner" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sdg5-hub/sdg5-hub/main/Room_1_hacks.gif" alt="banner" width="100%" />
 </p>
+
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science student passionate about coding & creativity  
