@@ -75,15 +75,29 @@ MedTrack is a local-first medication adherence app built for hackathon demo use.
   </a>
 </p>
 
-### Your Third Best Project
-Add one more project here that shows another side of your skill set.
+### WeaveWise
 
-**Goal:** Replace this with your real project summary  
-**Focus:** What makes it interesting or useful  
-**Stack:** List the main technologies used  
+WeaveWise is a clothing sustainability tracker that reads garment tags, extracts structured clothing data, and estimates environmental impact for a single item or an entire wardrobe.
 
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-REPO-LINK)
-[![Demo](https://img.shields.io/badge/Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK)
+**What it does:**
+- Extracts material composition, country of origin, and care details from garment tags
+- Uses OCR + LLM parsing to turn messy label text into structured garment data
+- Enriches results with sustainability context and impact factors
+- Generates garment-level and wardrobe-level impact summaries
+- Helps users understand the environmental footprint of their clothing choices
+
+**Goal:** Make clothing sustainability information easier to access and understand  
+**Focus:** OCR, structured extraction, sustainability analysis, and wardrobe-level insight  
+**Stack:** React, Vite, TypeScript, Python, FastAPI, MongoDB Atlas, Groq API, LangGraph, Bright Data  
+
+<p>
+  <a href="https://github.com/sdg5-hub/YaleHacks">
+    <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devpost.com/software/weavewise">
+    <img src="https://img.shields.io/badge/Demo-WeaveWise-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=003E54" />
+  </a>
+</p>
 
 ---
 
