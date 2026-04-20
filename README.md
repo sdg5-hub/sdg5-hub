@@ -179,5 +179,3 @@ Build fast.
 Refine hard.
 Keep it useful.
 Make it feel intentional.
-Connect
-<p> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://your-portfolio-link.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:osamahgilani@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sdg5-hub"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> ```
